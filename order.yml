@@ -13,3 +13,7 @@ eureka:
     service-url:
       defaultZone: http://127.0.0.1:8761/eureka
 aaa: 111
+envir: test111222333
+girl:
+  name: chenhaixing-1-2-3-4
+  age: 24
